@@ -1,10 +1,9 @@
 # Add-all-anime-to-my-anime-list
-adds all anime to your my anime list watch list now skips over allready added items.
+Adds all anime to your MyAnimeList.net watch list and skips over already added items.
+    This script adds all anime indiscriminately of genera, so it can and will pull pages for NSFW anime(Hentai, ecchi, erotica, etc.) these sites often have very lewd and inappropriate images on them with mild censory courtesy of MAL, but I would still not recommend letting this program run out in the open for all to see.
+requisites
 
-requisits
+The packages of selenium, time, and webdriver-manager are needed to run this(Must be up to date)
+In addition to these Python packages running, you will need to have installed a release for whatever browser is currently supported by this program(currently Firefox)
 
-the packages of selenium and time are needed to run this and some for of python runner(in the latest version
-
-Completed a 50 missing page for a stress test should work now
-
-any and all bug fixes, optimizations, edits, and changes are welcome
+Any and all bug fixes, optimizations, edits, and changes are welcome.
